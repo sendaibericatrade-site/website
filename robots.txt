@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sendaibericatrade.com/sitemap.xml
